@@ -78,6 +78,8 @@ html, body {
     font-family: Lato;
 }
 
+/* Spacing so it's not right on the edges of the banner */
+
 #pac-container {
     padding-bottom: 12px;
     margin-right: 12px;
